@@ -33,7 +33,7 @@
   
 </div>
 
-## --------------------------------------------------------------------------------------------------------
+## ----------------------------------------------------------------------------------------------
 ### Ferramentas  
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Visual" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
@@ -53,8 +53,7 @@
 </a>
 </div>
 
-## --------------------------------------------------------------------------------------------------------
-
+## ----------------------------------------------------------------------------------------------
 
 ##### Sou estudante de **Sistemas de Informação** na **Faculdade Cotemig** e atualmente atuo como **estagiária na Secretaria de Governo**, trabalhando com **front-end e back-end** em projetos acadêmicos e pessoais na área de **análise e gestão de dados**.  
 
