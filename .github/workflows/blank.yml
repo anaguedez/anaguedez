@@ -1,12 +1,12 @@
 name: Generate Snake
 
 on:
-  workflow_dispatch:      # você pode rodar manualmente
+  workflow_dispatch:      # permite rodar manualmente
   schedule:
     - cron: "0 0 * * *"   # roda automaticamente todo dia à meia-noite UTC
 
 permissions:
-  contents: write   # 👈 isso dá permissão pro bot salvar os arquivos
+  contents: write   # 👈 permite ao bot salvar arquivos na branch "output"
 
 jobs:
   build:
@@ -18,10 +18,9 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: anaguedez
+          github_user_name: anaguedez   # 👈 seu usuário do GitHub
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-custom.svg?palette=github-dark&color_snake=green&color_dots=#32CD32,#8A2BE2,#32CD32,#8A2BE2
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
