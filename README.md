@@ -55,7 +55,7 @@
 
 ## ----------------------------------------------------------------------------------------------
 
-##### Sou estudante de **Sistemas de Informação** na **Faculdade Cotemig** e atualmente atuo como **estagiária na Secretaria de Governo**, trabalhando com **front-end e back-end** em projetos acadêmicos e pessoais na área de **análise e gestão de dados**.  
+##### Sou estudante de **Sistemas de Informação** na **Faculdade Cotemig** e atualmente atuo como **Estagiária na Secretaria de Governo**, trabalhando com **front-end e back-end** em projetos acadêmicos e pessoais na área de **análise e gestão de dados**.  
 
 ##### Minha formação tem previsão de conclusão para **dezembro de 2027**. Já desenvolvi trabalhos utilizando diversas **linguagens de programação** e estou focada em **aprimorar minhas habilidades técnicas e analíticas**, buscando me destacar cada vez mais na área de tecnologia.  
 
