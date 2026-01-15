@@ -8,7 +8,7 @@
 ## 💚 Olá, eu sou a Ana Elisa!
 
 - 🔭 Atualmente desenvolvendo projetos acadêmicos e pessoais na área de **análise e gestão de dados**
-- 🌱 Estudante do **4° período de Sistemas de Informação** na Faculdade Cotemig
+- 🌱 Estudante do **5° período de Sistemas de Informação** na Faculdade Cotemig
 - 👯 Interessada em colaborar em projetos de **desenvolvimento de software** e **análise de dados**
 - 😎 Em busca de aprimorar conhecimentos em **estruturas de dados, banco de dados e desenvolvimento web**
 - 😄 Pronomes: ela/dela
