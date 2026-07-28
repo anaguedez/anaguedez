@@ -8,7 +8,7 @@
 ## 💚 Olá, eu sou a Ana Elisa!
 
 - 🔭 Atualmente desenvolvendo projetos acadêmicos e pessoais na área de **análise e gestão de dados**
-- 🌱 Estudante do **5° período de Sistemas de Informação** na Faculdade Cotemig
+- 🌱 Estudante do **6° período de Sistemas de Informação** na Faculdade Cotemig
 - 👯 Interessada em colaborar em projetos de **desenvolvimento de software** e **análise de dados**
 - 😎 Em busca de aprimorar conhecimentos em **estruturas de dados, banco de dados e desenvolvimento web**
 - 😄 Pronomes: ela/dela
@@ -20,32 +20,41 @@
 
 ## 🚀 Tecnologias & Habilidades  
 
+### Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ana-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Ana-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+   <img align="center" alt="Ana-VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Ana-WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+  <img align="center" alt="Ana-QlikSense" height="30" width="40" src="https://cdn.simpleicons.org/qlik">
+</div>
+  
+
+## ----------------------------------------------------------------------------------------------
 ### Linguagens
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ana-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ana-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Ana-GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ana-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ana-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Ana-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="Ana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  
+   <img align="center" alt="Ana-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Ana-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
 
 ## ----------------------------------------------------------------------------------------------
-### Ferramentas  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Visual" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
-  <img align="center" alt="Ana-Vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img align="center" alt="Ana-Qliksense"  src="https://img.shields.io/badge/Qlik%20Sense-009848?style=for-the-badge&logo=qlik&logoColor=white">
-</div>
-
 ## 📫 Conecte-se comigo! 
 
 <div> 
  
-  <a href="https://instagram.com/anaelisa.guedes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://tiktok.com/@aguedess__" target="_blank"><img src="https://img.shields.io/badge/-TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
   <a href = "mailto:alineanaelisa28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/ana-elisa-guedes-soares-barros-costa-988282303" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%988282303?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/anaguedez" target="_blank">
