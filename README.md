@@ -70,11 +70,14 @@
 
 ##### Resido em 📍 **Minas Gerais, Brasil** 🇧🇷, e sou motivada, dedicada e comprometida com o **aprendizado contínuo**, sempre em busca de oportunidades para contribuir com **soluções inovadoras e impactantes**.  
 
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anaguedez/anaguedez/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anaguedez/anaguedez/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anaguedez/anaguedez/output/github-contribution-grid-snake.svg">
 </picture>
+
+
 
 
  #### ⭐ Sempre em busca de aprendizado contínuo e oportunidades para crescer na área de tecnologia.
